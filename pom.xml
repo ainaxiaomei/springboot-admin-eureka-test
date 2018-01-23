@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>spring-boot-admin-sample-eureka</artifactId>
 	<dependencies>
-		<dependency>
+		<dependency> 
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
 			<version>1.4.2.RELEASE</version>
